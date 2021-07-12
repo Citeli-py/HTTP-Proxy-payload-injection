@@ -1,3 +1,9 @@
+
+# I've tested in different computers, and in ordinary models you may need to use sleep code to wait
+# you machine set the configurations to work properly. If bettercap doesn't run as expected, 
+# try uncomment the lines
+
+
 net.probe on
 #sleep 20
 net.show
