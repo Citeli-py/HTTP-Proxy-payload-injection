@@ -25,6 +25,6 @@ sudo bettercap --caplet js_inject.cap
 In some machines maybe you will need to add some delay in the caplet.
 
 ## Bettercap
-Visit the bettercap repository and bettercap website to learn how to use this powerfull tool
+Visit the bettercap repository and bettercap website to learn how to use this powerfull tool</br>
 https://github.com/bettercap/bettercap </br>
 https://www.bettercap.org/
